@@ -27,8 +27,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pet-name-generator.git
-   cd pet-name-generator
+   git clone https://github.com/Kalpanil/Pets_Name_Generator/tree/main
+   cd Pets_Name_Generator
    ```
 2. Create a virtual environment and activate it:
    ```bash
